@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d9d4530.css",
-    "main.js": "/static/js/main.e43fa047.js",
+    "main.css": "/static/css/main.1d7d8c04.css",
+    "main.js": "/static/js/main.50f91084.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.a9951aa8.chunk.js": "/static/js/769.a9951aa8.chunk.js",
     "static/media/ge_logo_2.jpg": "/static/media/ge_logo_2.1a4718a2177e2229abf3.jpg",
@@ -16,20 +16,18 @@
     "static/media/Spring_project.png": "/static/media/Spring_project.334708037cfa204a2354.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
-    "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.f720c71652579588524a.webp",
     "static/media/React_d3_project_2.png": "/static/media/React_d3_project_2.fdbdb04225ace36ceffa.png",
     "static/media/kafka_project.png": "/static/media/kafka_project.201d8517fb4953045202.png",
     "static/media/codeInLogo.webp": "/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
-    "static/media/pwaLogo.webp": "/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
     "static/media/paytm_logo.webp": "/static/media/paytm_logo.f9d660002746f74c473a.webp",
     "index.html": "/index.html",
-    "main.7d9d4530.css.map": "/static/css/main.7d9d4530.css.map",
-    "main.e43fa047.js.map": "/static/js/main.e43fa047.js.map",
+    "main.1d7d8c04.css.map": "/static/css/main.1d7d8c04.css.map",
+    "main.50f91084.js.map": "/static/js/main.50f91084.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
     "769.a9951aa8.chunk.js.map": "/static/js/769.a9951aa8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d9d4530.css",
-    "static/js/main.e43fa047.js"
+    "static/css/main.1d7d8c04.css",
+    "static/js/main.50f91084.js"
   ]
 }
