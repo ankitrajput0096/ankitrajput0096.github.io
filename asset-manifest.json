@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.eafa1112.css",
-    "main.js": "/static/js/main.9cbfe5d8.js",
+    "main.css": "/static/css/main.a26e5bf5.css",
+    "main.js": "/static/js/main.4a181948.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.a9951aa8.chunk.js": "/static/js/769.a9951aa8.chunk.js",
+    "static/media/ge_impact_cert.png": "/static/media/ge_impact_cert.2c8dc722b1acee276462.png",
+    "static/media/ge_cert_3.png": "/static/media/ge_cert_3.ce438cb5633aa7591f7f.png",
+    "static/media/ge_cert_4.png": "/static/media/ge_cert_4.762c9642255dd2193005.png",
     "static/media/paytm_cert_3.png": "/static/media/paytm_cert_3.251949e2458e5a802200.png",
-    "static/media/paypal_cert_2.png": "/static/media/paypal_cert_2.2a4cd0d212b22dfbea8c.png",
     "static/media/ge_logo_2.jpg": "/static/media/ge_logo_2.1a4718a2177e2229abf3.jpg",
+    "static/media/paypal_cert_3.png": "/static/media/paypal_cert_3.5fe73ef2943953f72d49.png",
     "static/media/ASU_Logo.jpg": "/static/media/ASU_Logo.631c73a3f53fcdc8f87e.jpg",
     "static/media/paypal_cert_1.png": "/static/media/paypal_cert_1.aee6ab69aedd5bda9a86.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -21,16 +24,15 @@
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/React_d3_project_2.png": "/static/media/React_d3_project_2.fdbdb04225ace36ceffa.png",
     "static/media/kafka_project.png": "/static/media/kafka_project.201d8517fb4953045202.png",
-    "static/media/codeInLogo.webp": "/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
     "static/media/paytm_logo.webp": "/static/media/paytm_logo.f9d660002746f74c473a.webp",
     "index.html": "/index.html",
-    "main.eafa1112.css.map": "/static/css/main.eafa1112.css.map",
-    "main.9cbfe5d8.js.map": "/static/js/main.9cbfe5d8.js.map",
+    "main.a26e5bf5.css.map": "/static/css/main.a26e5bf5.css.map",
+    "main.4a181948.js.map": "/static/js/main.4a181948.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
     "769.a9951aa8.chunk.js.map": "/static/js/769.a9951aa8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eafa1112.css",
-    "static/js/main.9cbfe5d8.js"
+    "static/css/main.a26e5bf5.css",
+    "static/js/main.4a181948.js"
   ]
 }
