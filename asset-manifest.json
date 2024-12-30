@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.5d5b9757.css",
-    "main.js": "/static/js/main.39a795ab.js",
+    "main.js": "/static/js/main.1e718c5f.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.a9951aa8.chunk.js": "/static/js/769.a9951aa8.chunk.js",
+    "static/js/769.be1987ed.chunk.js": "/static/js/769.be1987ed.chunk.js",
     "static/media/ge_impact_cert.png": "/static/media/ge_impact_cert.2c8dc722b1acee276462.png",
     "static/media/ge_cert_3.png": "/static/media/ge_cert_3.ce438cb5633aa7591f7f.png",
     "static/media/ge_cert_4.png": "/static/media/ge_cert_4.762c9642255dd2193005.png",
@@ -27,12 +27,12 @@
     "static/media/paytm_logo.webp": "/static/media/paytm_logo.f9d660002746f74c473a.webp",
     "index.html": "/index.html",
     "main.5d5b9757.css.map": "/static/css/main.5d5b9757.css.map",
-    "main.39a795ab.js.map": "/static/js/main.39a795ab.js.map",
+    "main.1e718c5f.js.map": "/static/js/main.1e718c5f.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
-    "769.a9951aa8.chunk.js.map": "/static/js/769.a9951aa8.chunk.js.map"
+    "769.be1987ed.chunk.js.map": "/static/js/769.be1987ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d5b9757.css",
-    "static/js/main.39a795ab.js"
+    "static/js/main.1e718c5f.js"
   ]
 }
