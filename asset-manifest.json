@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d5b9757.css",
+    "main.css": "/static/css/main.d8a6d2b5.css",
     "main.js": "/static/js/main.1e718c5f.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.be1987ed.chunk.js": "/static/js/769.be1987ed.chunk.js",
@@ -26,13 +26,13 @@
     "static/media/kafka_project.png": "/static/media/kafka_project.201d8517fb4953045202.png",
     "static/media/paytm_logo.webp": "/static/media/paytm_logo.f9d660002746f74c473a.webp",
     "index.html": "/index.html",
-    "main.5d5b9757.css.map": "/static/css/main.5d5b9757.css.map",
+    "main.d8a6d2b5.css.map": "/static/css/main.d8a6d2b5.css.map",
     "main.1e718c5f.js.map": "/static/js/main.1e718c5f.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
     "769.be1987ed.chunk.js.map": "/static/js/769.be1987ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d5b9757.css",
+    "static/css/main.d8a6d2b5.css",
     "static/js/main.1e718c5f.js"
   ]
 }
